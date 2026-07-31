@@ -1,0 +1,5 @@
+Solid understanding of Transformer models, LLMs, fine-tuning, and RLHF.
+Strong coding ability in Python, familiarity with Jupyter, PyTorch, TensorFlow.
+Hands-on experience with LangChain, AutoGPT, Hugging Face Transformers, OpenAI API, etc.
+Familiarity with vector databases (Pinecone, FAISS, Weaviate) and RAG pipelines
+
